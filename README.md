@@ -1,98 +1,107 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=FOX-KNIGHT&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Siddhant%20Jena&descAlignY=60&descAlign=50" alt="Header" />
+<!-- Custom Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D9FF,100:0575E6&height=300&section=header&text=FOX-KNIGHT&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=crafting%20code%20one%20commit%20at%20a%20time&descAlignY=60" />
 
-<h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3572A5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;JavaScript+%26+Go+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
-  </a>
-</h1>
+</div>
+
+## hey there 👋
+
+i'm **siddhant**, a developer who enjoys turning caffeine into code. currently exploring the depths of full-stack development and probably overthinking my commit messages.
+
+```go
+type Developer struct {
+    Name      string
+    Location  string
+    Languages []string
+    Coffee    int
+}
+
+me := Developer{
+    Name:      "Siddhant Jena",
+    Location:  "India",
+    Languages: []string{"JavaScript", "Go", "HTML/CSS"},
+    Coffee:    999, // and counting
+}
+```
+
+### what i work with
+
+**languages & frameworks**
+```
+JavaScript  ████████████████████░░   90%
+Go          ███████████████░░░░░░   75%
+HTML/CSS    ██████████████████░░░   85%
+React       ████████████░░░░░░░░   80%
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,go,react,html,css,nodejs,express,mongodb,postgres,git,github,docker,linux,vscode&perline=7" />
+</p>
+
+---
+
+### github stats (because why not)
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=FOX-KNIGHT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FOX-KNIGHT&theme=tokyonight&hide_border=true&background=1a1b27&ring=bf91f3&fire=70a5fd&currStreakLabel=70a5fd" width="49%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FOX-KNIGHT&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="98%" />
+
+</div>
+
+---
+
+### current vibe
+
+```javascript
+const currentStatus = {
+  learning: ["advanced go patterns", "system design"],
+  working_on: "side projects that may or may not see the light of day",
+  listening_to: "lofi beats while debugging",
+  fun_fact: "i've rewritten my portfolio 47 times"
+};
+```
+
+<details>
+<summary>📦 projects i'm proud of (click to expand)</summary>
+<br>
+
+> will update this when i stop refactoring old code
+
+**coming soon:**
+- 🚀 project that actually works
+- 🎨 another portfolio redesign (inevitable)
+- 🔧 tool that solves a problem only i have
+
+</details>
+
+---
+
+### let's connect
 
 <p align="center">
   <a href="mailto:Worksiddhant18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/email-worksiddhant18%40gmail.com-blue?style=flat-square&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/siddhant-jena-457350389">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-siddhant--jena-0077B5?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://www.instagram.com/s1ddhant._.18/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/instagram-s1ddhant.__.18-E4405F?style=flat-square&logo=instagram" />
   </a>
 </p>
 
-<br/>
+---
 
-<h3>🚀 Tech Stack</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,go,html,css,git,github,vscode,react&theme=dark" />
-  </a>
-</p>
-
-<br/>
-
-<h3>📊 GitHub Activity</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FOX-KNIGHT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="FOX-KNIGHT's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOX-KNIGHT&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FOX-KNIGHT&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
-</div>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=FOX-KNIGHT&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Siddhant%20Jena&descAlignY=60&descAlign=50" alt="Header" />
+*"first, solve the problem. then, write the code."* – someone smarter than me
 
-<h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3572A5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;JavaScript+%26+Go+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
-  </a>
-</h1>
-
-<p align="center">
-  <a href="mailto:Worksiddhant18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/siddhant-jena-457350389">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/s1ddhant._.18/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
-<br/>
-
-<h3>🚀 Tech Stack</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,go,html,css,git,github,vscode,react,docker,postgres,linux&theme=dark" />
-  </a>
-</p>
-
-<br/>
-
-<h3>📊 Developer Dashboard</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FOX-KNIGHT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOX-KNIGHT&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages" />
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FOX-KNIGHT&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FOX-KNIGHT&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=FOX-KNIGHT&color=70a5fd&style=flat-square&label=visitors" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00D9FF&height=120&section=footer" />
