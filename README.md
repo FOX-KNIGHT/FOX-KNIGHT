@@ -65,8 +65,8 @@ func main() {
   <a href="https://github.com/FOX-KNIGHT/Home-Harmony">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FOX-KNIGHT&repo=Home-Harmony&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=00D9FF&title_color=0575E6" />
   </a>
-  <a href="https://github.com/FOX-KNIGHT/moodai-journal-1-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FOX-KNIGHT&repo=moodai-journal-1-&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=00D9FF&title_color=0575E6" />
+  <a href="https://github.com/FOX-KNIGHT/MoodAI-Journal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FOX-KNIGHT&repo=MoodAI-Journal&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=00D9FF&title_color=0575E6" />
   </a>
 </div>
 <div align="center">
@@ -85,12 +85,15 @@ func main() {
   <img src="https://github-readme-stats.vercel.app/api?username=FOX-KNIGHT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=0575E6&icon_color=00D9FF&text_color=fff&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOX-KNIGHT&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=0575E6&text_color=fff" height="150" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FOX-KNIGHT&bg_color=1a1b27&color=0575E6&line=00D9FF&point=fff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=FOX-KNIGHT&theme=tokyonight&hide_border=true&background=1a1b27&ring=0575E6&fire=00D9FF&currStreakLabel=00D9FF" width="100%" />
 </div>
 
 <div align="center">
   <br/>
   <img src="https://komarev.com/ghpvc/?username=FOX-KNIGHT&color=00D9FF&style=flat-square&label=Profile+Views" />
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00D9FF&height=100&section=footer" width="100%" />
+</div>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00D9FF&height=100&section=footer" width="100%" />
 </div>
