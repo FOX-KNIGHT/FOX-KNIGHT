@@ -25,16 +25,26 @@
 <h3>🚀 Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,go,html,css,git,github,vscode,react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,go,html,css,git,github,vscode,react,docker,postgres,linux&theme=dark" />
   </a>
 </p>
 
 <br/>
 
-<h3>📊 GitHub Activity</h3>
+<h3>📊 Developer Dashboard</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FOX-KNIGHT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOX-KNIGHT&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FOX-KNIGHT&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FOX-KNIGHT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="FOX-KNIGHT's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOX-KNIGHT&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
 <p align="center">
