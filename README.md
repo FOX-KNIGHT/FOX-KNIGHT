@@ -55,12 +55,8 @@ fun_fact: "I speak fluent Binary"
 
 <h3 align="center">📊 Data Telemetry</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FOX-KNIGHT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOX-KNIGHT&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FOX-KNIGHT/FOX-KNIGHT/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FOX-KNIGHT&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOX-KNIGHT&theme=tokyonight&layout=compact&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br/>
