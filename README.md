@@ -28,11 +28,9 @@ skills:
 current_mission:
   - building: "Home-Harmony"
   - learning: "Cloud Architecture"
-fun_fact: "I speak fluent Binary"</pre>
-      
-      <br/>
-      
-      <div align="center">
+fun_fact: "I speak fluent Binary"
+</pre>
+<div align="center">
         <a href="mailto:Worksiddhant18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/siddhant-jena-457350389"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="https://www.instagram.com/s1ddhant._.18/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -45,15 +43,6 @@ fun_fact: "I speak fluent Binary"</pre>
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <h3>🚀 Active Operations</h3>
-  <a href="https://github.com/FOX-KNIGHT?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FOX-KNIGHT&repo=FOX-KNIGHT&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7" />
-  </a>
-</div>
 
 <br/>
 
