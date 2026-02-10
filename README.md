@@ -1,76 +1,98 @@
-## yo, i'm siddhant 👨‍💻
+<div align="center">
 
-**full stack developer | open source enthusiast | perpetual learner**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=FOX-KNIGHT&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Siddhant%20Jena&descAlignY=60&descAlign=50" alt="Header" />
 
-currently a CS student at ITER, SOA. i like to build things, break things, and then fix them (usually in that order).
-
----
-
-### what i do
-
-i write code that (mostly) works. passionate about web development and always exploring new tech. when i'm not coding, you'll find me either debugging or thinking about debugging.
-
-**my stack:**
-```
-frontend  → react, next.js, typescript, tailwind
-backend   → node.js, express, python, django, go
-database  → mongodb, postgresql, redis
-devops    → docker, git, aws
-design    → figma (yes, i can design too)
-```
-
----
-
-### stuff i've built
-
-check out my pinned repos below - they're the ones i'm actually proud of 👇
-
-some highlights:
-- **home-harmony** → smart home management (because adulting is hard)
-- **devlovers** → dev community platform (we all need friends who get it)
-- **moodai-journal** → ai journaling app (track your vibes with ml)
-- **porsche-website** → responsive car showcase (vroom vroom)
-
----
-
-### my github in numbers
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3572A5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;JavaScript+%26+Go+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FOX-KNIGHT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FOX-KNIGHT&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="mailto:Worksiddhant18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/siddhant-jena-457350389">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/s1ddhant._.18/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<br/>
+
+<h3>🚀 Tech Stack</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,go,html,css,git,github,vscode,react&theme=dark" />
+  </a>
+</p>
+
+<br/>
+
+<h3>📊 GitHub Activity</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FOX-KNIGHT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="FOX-KNIGHT's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOX-KNIGHT&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOX-KNIGHT&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=FOX-KNIGHT&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
----
+</div>
+<div align="center">
 
-### currently
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=FOX-KNIGHT&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Siddhant%20Jena&descAlignY=60&descAlign=50" alt="Header" />
 
-- 🔨 working on: a cool web project (can't say more yet)
-- 📚 learning: system design & cloud architecture
-- 🎯 goal: contribute more to open source
-- ☕ fuel: coffee (lots of it)
-
----
-
-### let's connect
-
-hit me up if you want to:
-- collaborate on a project
-- talk about tech
-- share memes
-- just say hi
-
-📧 [email](mailto:your.email@example.com) • 💼 [linkedin](your-linkedin) • 🐦 [twitter](your-twitter)
-
----
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3572A5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;JavaScript+%26+Go+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FOX-KNIGHT&label=profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="mailto:Worksiddhant18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/siddhant-jena-457350389">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/s1ddhant._.18/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<br/>
+
+<h3>🚀 Tech Stack</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,go,html,css,git,github,vscode,react,docker,postgres,linux&theme=dark" />
+  </a>
+</p>
+
+<br/>
+
+<h3>📊 Developer Dashboard</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FOX-KNIGHT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOX-KNIGHT&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FOX-KNIGHT&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
 <p align="center">
-  <i>thanks for stopping by! feel free to explore my repos and star the ones you like ⭐</i>
+  <img src="https://komarev.com/ghpvc/?username=FOX-KNIGHT&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
+
+</div>
