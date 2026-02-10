@@ -8,18 +8,15 @@
   </a>
 </h3>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=FOX-KNIGHT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</a>
-
 </div>
 
 <br/>
 
 <table align="center" border="0">
   <tr>
-    <td width="55%" valign="top"> <h3>>_ System_Override.yml</h3>
-      <pre>
+    <td width="55%" valign="top">
+      <h3>>_ System_Override.yml</h3>
+<pre>
 name: Siddhant Jena
 codename: FOX-KNIGHT
 status: Online 🟢
@@ -32,6 +29,8 @@ current_mission:
   - building: "Home-Harmony"
   - learning: "Cloud Architecture"
 fun_fact: "I speak fluent Binary"</pre>
+      
+      <br/>
       
       <div align="center">
         <a href="mailto:Worksiddhant18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -54,7 +53,7 @@ fun_fact: "I speak fluent Binary"</pre>
   <a href="https://github.com/FOX-KNIGHT?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FOX-KNIGHT&repo=FOX-KNIGHT&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7" />
   </a>
-  </div>
+</div>
 
 <br/>
 
