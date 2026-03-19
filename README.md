@@ -1,123 +1,156 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:111111,70:1a1a1a,100:0d0d0d&height=280&section=header&text=Fox-Knight&fontSize=90&fontAlignY=38&fontColor=ffffff&animation=fadeIn&stroke=222222&strokeWidth=2&desc=Full-Stack%20Developer%20%7C%20System%20Architect%20%7C%20IoT%20Engineer&descSize=18&descAlignY=60&descColor=a9a9a9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:00f7ff,100:0d0d0d&height=200&section=header&text=FOX-KNIGHT&fontSize=70&fontColor=00f7ff&animation=fadeIn&fontAlignY=55&desc=Siddhant%20Jena%20%2F%2F%20Full-Stack%20Developer%20%7C%20IoT%20Architect%20%7C%20Systems%20Builder&descSize=16&descAlignY=78&descColor=ffffff" width="100%" />
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/FOX-KNIGHT">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=550&lines=Building+Intelligent+IoT+Systems+%F0%9F%9B%B0%EF%B8%8F;Architecting+Scalable+Web+Apps+%F0%9F%8C%90;Pushing+Code+Every+Single+Day+%F0%9F%94%A5;From+ESP32+to+Cloud+%E2%80%94+Full+Stack+%F0%9F%9A%80;Never+Stop+Building.+Never+Stop+Learning." alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://github.com/FOX-KNIGHT">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+systems+that+think;IoT+%2B+AI+%2B+Web+%E2%80%94+full+stack+from+silicon+to+screen;From+ESP32+firmware+to+cloud+inference+pipelines;93%25+uptime%2C+50ms+API+response%2C+no+excuses" alt="Typing SVG" />
+</a>
 
 <br/>
 
 <p align="center">
   <a href="https://github.com/FOX-KNIGHT?tab=followers">
-    <img src="https://img.shields.io/github/followers/FOX-KNIGHT?label=Followers&style=for-the-badge&color=0d0d0d&labelColor=1a1a1a&logoColor=ffffff" />
+    <img src="https://img.shields.io/github/followers/FOX-KNIGHT?style=for-the-badge&logo=github&color=00f7ff&labelColor=0d0d0d&logoColor=00f7ff" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=FOX-KNIGHT&style=for-the-badge&color=0d0d0d&labelColor=1a1a1a&label=Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-YES-ffffff?style=for-the-badge&color=0d0d0d&labelColor=1a1a1a" />
+  <img src="https://komarev.com/ghpvc/?username=FOX-KNIGHT&style=for-the-badge&color=00f7ff&labelColor=0d0d0d&label=PROFILE+VIEWS" />
 </p>
 
 </div>
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOX-KNIGHT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=a9a9a9" width="38%" />
+<img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 👾 Who Am I?
+### Who I am
 
-I'm **Siddhant Jena** — a builder who thrives at the intersection of **hardware and software**, from ESP32 microcontrollers capturing spatial telemetry to Next.js dashboards rendering it in real time.
+I'm a builder who operates from **hardware up to the cloud**.
 
-- 🛰️ **Currently building:** `TempMent` & `Proxima` — advanced IoT telemetry platforms
-- 🧠 **Deep diving into:** AI inference pipelines & microservice mesh architectures
-- 🤝 **Collaborate with me on:** Open-source IoT, Web3 & Agritech
-- ⚡ **My obsession:** Shaving 50ms off an API response and calling it a victory
-- 🌍 **Philosophy:** *Ship fast. Iterate faster. Never ship broken.*
-- 📬 **Reach me:** [worksiddhant18@gmail.com](mailto:worksiddhant18@gmail.com)
+My main platforms — **TempMent** and **Proxima** — are IoT telemetry systems I designed end-to-end: firmware on ESP32, MQTT pipelines, async backends, and real-time dashboards. Not hobby projects. Engineered systems.
+
+I care more about **why** an architecture decision was made than that it was made. I write code I can defend in a room full of people smarter than me.
+
+Currently exploring: **AI inference at the edge + microservice mesh architectures**
+
+<br clear="right"/>
+
+```python
+siddhant = {
+    "languages":   ["TypeScript", "JavaScript", "Python", "C++", "Java", "C"],
+    "frontend":    ["Next.js", "React", "Tailwind CSS", "Vite"],
+    "backend":     ["Node.js", "Express", "WebSocket", "REST", "MQTT"],
+    "ai_stack":    ["TensorFlow Lite", "ONNX", "Edge Inference", "LLM Pipelines"],
+    "infra":       ["Docker", "AWS", "GCP", "Firebase", "MongoDB", "PostgreSQL"],
+    "hardware":    ["ESP32", "Arduino", "Raspberry Pi", "MQTT", "I2C/SPI"],
+    "region":      "India 🇮🇳",
+    "status":      "building + always learning"
+}
+```
+
+---
+
+## Stack
+
+<div align="center">
+
+[![](https://skillicons.dev/icons?i=ts,js,python,cpp,java,c&theme=dark)](https://skillicons.dev)
+
+[![](https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,nodejs,express&theme=dark)](https://skillicons.dev)
+
+[![](https://skillicons.dev/icons?i=mongodb,postgres,firebase,docker,aws,gcp&theme=dark)](https://skillicons.dev)
+
+[![](https://skillicons.dev/icons?i=git,linux,arduino,vscode,postman,github&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Featured Projects
+
+<img align="right" width="36%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4NHBxazdheWpib3VqMTZybHdwdHYxMTcxYjR6Y3ZpaGZuM2diZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
+
+### 🌡️ TempMent
+
+> Real-time IoT temperature telemetry platform with anomaly detection.
+
+```
+ESP32 Sensors → MQTT Broker → Node.js Backend
+             → WebSocket → Next.js Dashboard
+             → MongoDB → Alert Engine
+```
+
+| Feature | Implementation |
+|---------|----------------|
+| Live sensor data | WebSocket stream |
+| Anomaly detection | Rolling Z-score threshold |
+| Edge firmware | C++ on ESP32 |
+| Dashboard | Next.js + Recharts |
+
+---
+
+### 🛰️ Proxima
+
+> Spatial sensing system — edge-to-cloud data pipeline for environmental mapping.
+
+```
+Spatial Sensors → ESP32 → MQTT → Firebase
+               → Node.js API → React UI
+               → GCP Cloud Functions → Analytics
+```
 
 <br clear="right"/>
 
 ---
 
-### 🚀 Featured Projects
+## What I'm looking for
+
+| Interested in | Not interested in |
+|--------------|-------------------|
+| Hard systems problems | Tutorials disguised as projects |
+| IoT + AI intersection at the edge | Another basic CRUD app |
+| Agritech + real-world sensing | Surface-level ML wrappers |
+| Code review + architecture depth | Shipping fast without understanding |
+| Web3 infrastructure + open-source | Hype without substance |
+
+---
+
+## Currently deep in
+
+```
+$ ls ~/active_learning/
+AI_inference_at_edge/
+microservice_mesh_patterns/
+ESP32_low_power_optimization/
+LLM_pipeline_architecture/
+agritech_sensor_fusion/
+```
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🌡️ **TempMent** | Real-time IoT temperature telemetry dashboard with anomaly detection | `ESP32` `Next.js` `WebSocket` `MongoDB` |
-| 🛰️ **Proxima** | Spatial sensing system with edge-to-cloud data pipeline | `C++` `Node.js` `MQTT` `Firebase` |
-| 🌾 **AgroEdge** | Agritech monitoring platform with AI-driven crop insights | `Python` `React` `TensorFlow Lite` `AWS` |
+<img src="https://github-readme-stats.vercel.app/api?username=FOX-KNIGHT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&ring_color=00f7ff" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FOX-KNIGHT&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" alt="Streak Stats" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOX-KNIGHT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f7ff&text_color=ffffff" alt="Top Languages" width="50%" />
 
 </div>
 
 ---
 
-### 🛠️ Tech Arsenal
+## Contribution Graph
 
 <div align="center">
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=A8B9CC)
-
-**Frontend & UI**
-
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-0d0d0d?style=for-the-badge&logo=vite&logoColor=646CFF)
-
-**Backend & Infra**
-
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-0d0d0d?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=DD2C00)
-
-**Hardware & Embedded**
-
-![Arduino](https://img.shields.io/badge/Arduino-0d0d0d?style=for-the-badge&logo=arduino&logoColor=00878A)
-![ESP32](https://img.shields.io/badge/ESP32-0d0d0d?style=for-the-badge&logo=espressif&logoColor=E7352C)
-![MQTT](https://img.shields.io/badge/MQTT-0d0d0d?style=for-the-badge&logo=mqtt&logoColor=660066)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d0d0d?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FOX-KNIGHT&bg_color=0d0d0d&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="98%" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FOX-KNIGHT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=a9a9a9&text_color=a9a9a9&rank_icon=github&show=reviews,discussions_started,prs_merged" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FOX-KNIGHT&theme=tokyonight&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=a9a9a9&currStreakLabel=a9a9a9&sideLabels=a9a9a9&dates=a9a9a9" alt="Streak Stats" width="49%" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FOX-KNIGHT&bg_color=0d0d0d&color=a9a9a9&line=ffffff&point=ffffff&area=true&hide_border=true" width="98%" alt="Activity Graph" />
-</div>
-
----
-
-### 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -129,28 +162,28 @@ I'm **Siddhant Jena** — a builder who thrives at the intersection of **hardwar
 
 ---
 
-### 💬 Current Mindset
-
 <div align="center">
 
-> *"The best systems are invisible to the user and unforgettable to the engineer who built them."*
+[![quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+best+systems+are+invisible+to+the+user+and+unforgettable+to+the+engineer+who+built+them.&author=personal+rule)](https://github.com/FOX-KNIGHT)
 
 </div>
 
 ---
 
-### 📡 Connect With Me
+**Open to collabs on hard IoT problems, AI at the edge, and open-source infra that actually matters.**
 
-<div align="center">
+<p align="center">
+  <a href="mailto:worksiddhant18@gmail.com">
+    <img src="https://img.shields.io/badge/email-reach%20out-00f7ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/siddhant-jena-457350389">
+    <img src="https://img.shields.io/badge/LinkedIn-Siddhant%20Jena-00f7ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/FOX-KNIGHT">
+    <img src="https://img.shields.io/badge/GitHub-FOX--KNIGHT-00f7ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-FOX--KNIGHT-0d0d0d?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/FOX-KNIGHT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddhant%20Jena-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1a1a1a)](https://www.linkedin.com/in/siddhant-jena-457350389)
-[![Gmail](https://img.shields.io/badge/Gmail-worksiddhant18-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1a1a1a)](mailto:worksiddhant18@gmail.com)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a1a1a,100:0d0d0d&height=120&section=footer&text=Keep+Building.&fontSize=30&fontColor=333333&animation=fadeIn" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00f7ff&height=100&section=footer" width="100%" />
