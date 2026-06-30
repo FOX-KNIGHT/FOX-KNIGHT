@@ -32,7 +32,6 @@ const engineer = {
   alias   : "FOX-KNIGHT",
   role    : "Full-Stack Engineer × IoT Architect × AI Dev",
   campus  : "ITER, SOA University — Bhubaneswar, India",
-  org     : "GFG Campus Lead",
   runtime : "hardware ↔ firmware ↔ cloud ↔ UI",
 
   thinking_in : [
