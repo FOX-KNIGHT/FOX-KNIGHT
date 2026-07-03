@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020d1a,60:031828,80:020d1a,100:000000&height=400&section=header&text=FOX-KNIGHT&fontSize=120&fontAlignY=36&fontColor=00f7ff&animation=twinkling&stroke=00f7ff&strokeWidth=1.2&desc=Siddhant%20Jena%20%E2%80%94%20Full-Stack%20Engineer%20%7C%20IoT%20Architect%20%7C%20AI%20Systems%20Builder&descSize=16&descAlignY=55&descColor=3a7a94" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2600&pause=600&color=00F7FF&center=true&vCenter=true&width=820&height=36&separator=%3B&lines=%E2%96%B8+ESP32+firmware+%E2%86%92+MQTT+%E2%86%92+cloud+inference+pipelines;%E2%96%B8+Socket.IO+real-time+engines+%7C+50%2B+concurrent+live+users+in+production;%E2%96%B8+YOLOv8+%7C+TF+Lite+%7C+Firebase+Genkit+%7C+Edge+AI;%E2%96%B8+GFG+Campus+Lead+%40+ITER%2C+SOA+University+%E2%80%94+Bhubaneswar%2C+India;%E2%96%B8+Ship+fast.+Iterate+faster.+Never+ship+broken." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2600&pause=600&color=00F7FF&center=true&vCenter=true&width=820&height=36&separator=%3B&lines=%E2%96%B8+ESP32+firmware+%E2%86%92+MQTT+%E2%86%92+cloud+inference+pipelines;%E2%96%B8+Socket.IO+real-time+engines+%7C+50%2B+concurrent+live+users+in+production;%E2%96%B8+YOLOv8+%7C+TF+Lite+%7C+Firebase+Genkit+%7C+Edge+AI;%E2%96%B8+%40+ITER%2C+SOA+University+%E2%80%94+Bhubaneswar%2C+India;%E2%96%B8+Ship+fast.+Iterate+faster.+Never+ship+broken." />
 
 <br/>
 
